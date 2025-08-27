@@ -1,0 +1,35 @@
+C:\Users\santi\source\repos\API CARROS\API CARROS\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\santi\source\repos\API CARROS\API CARROS\bin\Debug\net8.0\appsettings.json
+C:\Users\santi\source\repos\API CARROS\API CARROS\bin\Debug\net8.0\API CARROS.staticwebassets.endpoints.json
+C:\Users\santi\source\repos\API CARROS\API CARROS\bin\Debug\net8.0\API CARROS.exe
+C:\Users\santi\source\repos\API CARROS\API CARROS\bin\Debug\net8.0\API CARROS.deps.json
+C:\Users\santi\source\repos\API CARROS\API CARROS\bin\Debug\net8.0\API CARROS.runtimeconfig.json
+C:\Users\santi\source\repos\API CARROS\API CARROS\bin\Debug\net8.0\API CARROS.dll
+C:\Users\santi\source\repos\API CARROS\API CARROS\bin\Debug\net8.0\API CARROS.pdb
+C:\Users\santi\source\repos\API CARROS\API CARROS\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\santi\source\repos\API CARROS\API CARROS\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\santi\source\repos\API CARROS\API CARROS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\santi\source\repos\API CARROS\API CARROS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\santi\source\repos\API CARROS\API CARROS\obj\Debug\net8.0\API CARROS.csproj.AssemblyReference.cache
+C:\Users\santi\source\repos\API CARROS\API CARROS\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\santi\source\repos\API CARROS\API CARROS\obj\Debug\net8.0\API CARROS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\source\repos\API CARROS\API CARROS\obj\Debug\net8.0\API CARROS.AssemblyInfoInputs.cache
+C:\Users\santi\source\repos\API CARROS\API CARROS\obj\Debug\net8.0\API CARROS.AssemblyInfo.cs
+C:\Users\santi\source\repos\API CARROS\API CARROS\obj\Debug\net8.0\API CARROS.csproj.CoreCompileInputs.cache
+C:\Users\santi\source\repos\API CARROS\API CARROS\obj\Debug\net8.0\API CARROS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\santi\source\repos\API CARROS\API CARROS\obj\Debug\net8.0\API CARROS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\santi\source\repos\API CARROS\API CARROS\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\santi\source\repos\API CARROS\API CARROS\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\santi\source\repos\API CARROS\API CARROS\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\santi\source\repos\API CARROS\API CARROS\obj\Debug\net8.0\scopedcss\bundle\API CARROS.styles.css
+C:\Users\santi\source\repos\API CARROS\API CARROS\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\santi\source\repos\API CARROS\API CARROS\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\santi\source\repos\API CARROS\API CARROS\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\santi\source\repos\API CARROS\API CARROS\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\santi\source\repos\API CARROS\API CARROS\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\santi\source\repos\API CARROS\API CARROS\obj\Debug\net8.0\API CARROS.csproj.Up2Date
+C:\Users\santi\source\repos\API CARROS\API CARROS\obj\Debug\net8.0\API CARROS.dll
+C:\Users\santi\source\repos\API CARROS\API CARROS\obj\Debug\net8.0\refint\API CARROS.dll
+C:\Users\santi\source\repos\API CARROS\API CARROS\obj\Debug\net8.0\API CARROS.pdb
+C:\Users\santi\source\repos\API CARROS\API CARROS\obj\Debug\net8.0\API CARROS.genruntimeconfig.cache
+C:\Users\santi\source\repos\API CARROS\API CARROS\obj\Debug\net8.0\ref\API CARROS.dll
